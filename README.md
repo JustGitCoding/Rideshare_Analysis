@@ -18,12 +18,14 @@ The data for Suburban cities generally falls between Rural and Urban cities. The
 
 ### January - April (weekly data)
 ![jan_apr_weeklydata](/Analysis/Rideshare_fare_summary.png)
+The line chart above, representing the total fares generated in the first four months of 2019 (on a weekly basis), support our findings above. We can clearly see that the total fares generated in Urban cities (gold line) is at the top (higher performance is consistent throughout the 4 month period), and total fares for Suburban cities (coral line) and Rural cities (sky blue line) do not cross or "beat" Urban city fares in any given week.
+
 ## Summary:
 ### Business Recommendations
-1. 
+1. Based on the data for Urban cities, we see that there are more drivers than there were actual rides in 2019, which means that there were drivers who generated $0 in fares. We recommend setting a limit on the number of drivers at each city based on ride demand, such that the ratio of total rides in a city to the total count of drivers should always be greater than 1:1.
 
-2. 
+2. While we see that Rural city drivers are generating higher fares per ride, we recommend focusing business initiatives on Urban and Suburban cities, as they collectively represent over 93% of total revenues.
 
-3. 
+3. The analysis above is primarily based on quantitative data. It is highly recommended that further analysis is performed on qualitative aspects that may impact rideshare utilization / profitability. One possible way to achieve this would be to conduct surveys, possibly offering company gift cards as 'raffle reward' to incentive riders and drivers to participate.
 
 
