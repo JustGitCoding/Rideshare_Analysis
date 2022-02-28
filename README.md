@@ -1,6 +1,4 @@
 # Rideshare_Analysis
-## Purpose:
-Analyzing rideshare data and producing visualizations
 
 ## Overview:
 ### Purpose:
